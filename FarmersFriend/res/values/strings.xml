@@ -1,5 +1,11 @@
 <resources>
-
+	<!-- Universal app strings -->
     <string name="app_name">Farmer\'s Friend</string>
 
+    <!-- Home screen -->
+    <string name="capture_farm">Capture Farm Features</string>
+    <string name="view_farm">View Farm Features</string>
+    
+    <!-- Capture Features screen -->
+    <string name="capture_instructions">Tap the such and such to add a cool feature to your map.</string>
 </resources>
